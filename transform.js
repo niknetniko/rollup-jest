@@ -40,8 +40,9 @@ const transform = async ({file, code}) => {
   })
   const {output} = await generate({
     format: 'cjs',
+    sourcemap: 'inline'
   })
-  return output[0].code
+  return output[0].code + '\n//# sourceMappingURL=' + output[0].map.toUrl();
 }
 
 exports.transform = transform

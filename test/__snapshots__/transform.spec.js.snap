@@ -27,5 +27,6 @@ Object.defineProperty(exports, 'URL', {
     }
 });
 exports.foo = foo;
-"
+
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibnVsbC5qcyIsInNvdXJjZXMiOlsibnVsbC5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyJcbiAgICAgICAgZXhwb3J0IGNvbnN0IGZvbyA9ICA0MlxuICAgICAgICBleHBvcnQge2RlZmF1bHQgYXMgbm9vcH0gZnJvbSAnbm9vcDMnXG4gICAgICAgIGV4cG9ydCB7VVJMfSBmcm9tICd1cmwnXG4gICAgIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQ29CLE1BQUMsR0FBRyxJQUFJOzs7Ozs7Ozs7Ozs7Ozs7OyJ9"
 `;
